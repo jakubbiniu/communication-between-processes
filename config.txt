@@ -1,0 +1,10 @@
+usr1 : kolejka1
+usr2 : kolejka2
+usr3 : kolejka3
+usr4 : kolejka4
+usr5 : kolejka5
+usr6 : kolejka6
+usr7 : kolejka7
+usr8 : kolejka8
+usr9 : kolejka9
+usr10 : kolejka10
